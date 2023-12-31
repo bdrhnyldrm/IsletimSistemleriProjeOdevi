@@ -1,0 +1,5 @@
+java -jar isletimproje.jar TXT_DOSYA_PATH
+path eklemezsenin default olarak giris.txt calisacaktir.
+
+Eclipse'te hata meydana gelirse bunu acin
+<img width="768" alt="screenshot" src="https://user-images.githubusercontent.com/76840624/210174628-08eb0031-a422-497d-8f00-a2b03e20e426.png">
